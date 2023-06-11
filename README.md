@@ -16,7 +16,7 @@ Multiple linear regression is a fundamental practice for this dataset. Multivari
 
 The dataset is from:https://www.kaggle.com/datasets/aungpyaeap/fish-market?resource=download
 
-1.Spyder was used for Implementation
+1.Google colab was used for Implementation
 
 2.This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model can be performed using machine friendly data and estimate the weight of fish can be predicted.
 
@@ -68,7 +68,7 @@ TECHNICAL INSTRUCTIONS
 
 -> The dataset is sourced from Kaggle.
 
--> The ending results of all questions are based on graphs which are done using matplotlib.
+-> The results of all questions are based on graphs which are done using matplotlib.
 
 
 
