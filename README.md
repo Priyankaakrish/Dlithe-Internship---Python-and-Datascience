@@ -57,7 +57,7 @@ GPU Kernel
 
 The dataset https://www.kaggle.com/datasets/rupals/gpu-runtime
 
-*1. *Experiment with various parameters for linear and logistic regression (e.g. learning rate ∝) and report on your findings as how the error/accuracy varies for train and test sets with varying these parameters. Plot the results. Report the best values of the parameters.
+1.Experiment with various parameters for linear and logistic regression (e.g. learning rate ∝) and report on your findings as how the error/accuracy varies for train and test sets with varying these parameters. Plot the results. Report the best values of the parameters.
 
 2. Experiment with various thresholds for convergence for linear and logistic regression. Plot error results for train and test sets as a function of threshold and describe how varying the threshold affects error. Pick your best threshold and plot train and test error (in one figure) as a function of number of gradient descent iterations.
 
@@ -73,7 +73,7 @@ The dataset https://www.kaggle.com/datasets/dgawlik/nyse
 
 1.The raw, as-is daily prices. Most of data spans from 2010 to the end 2016, for companies new on stock market date range is shorter. There have been approx. 140 stock splits in that time, this set doesn't account for that.
 
-2. The same as prices, but there have been added adjustments for splits.
+2.The same as prices, but there have been added adjustments for splits.
 
 3.The general description of each company with division on sectors
 
