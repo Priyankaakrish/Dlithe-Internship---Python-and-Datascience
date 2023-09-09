@@ -63,7 +63,7 @@ The dataset https://www.kaggle.com/datasets/rupals/gpu-runtime
 
 3.Pick eight features randomly and retrain your models only on these ten features. Compare train and test error results for the case of using your original set of features (14) and eight random features. Report the ten randomly selected features.Now pick eight features that you think are best suited to predict the output, and retrain your models using these ten features. 
 
-4. Convert this problem into a binary classification problem. The target variable should have two categories. Implement logistic regression to carry out classification on this data set. Report accuracy/error metrics for train and test sets.
+4.Convert this problem into a binary classification problem. The target variable should have two categories. Implement logistic regression to carry out classification on this data set. Report accuracy/error metrics for train and test sets.
 
 
 Project 4
