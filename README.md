@@ -5,7 +5,7 @@ We also had a few classes in machine learning and statistics which help us analy
 
 Assignments during Online Internship with DLithe(www.dlithe.com).
 
-Assignment 1
+Project 1
 
 Fish Market 
 
@@ -29,7 +29,7 @@ The dataset is from:https://www.kaggle.com/datasets/aungpyaeap/fish-market?resou
 5.Multiple linear regression is a fundamental practice for this dataset. Multivariate analysis can also be performed.
 
 
-Assignment 2
+Project 2
 
 Vehicle dataset
 
@@ -51,7 +51,7 @@ The data is got from:https://www.kaggle.com/datasets/mayankpatel14/second-hand-u
 
 8.Checking the accuracy of y_train andy_pred was done using the Library: sklearn, module : metrics, class : r2score
 
-Assignment 3
+Project 3
 
 GPU Kernel
 
@@ -65,7 +65,7 @@ The dataset https://www.kaggle.com/datasets/rupals/gpu-runtime
 
 4. Now pick eight features that you think are best suited to predict the output, and retrain your models using these ten features. Compare to the case of using your original set of features and to the random features case.
 
-Assignment 4
+Project 4
 
 New york stock Exchange
 
