@@ -98,8 +98,6 @@ TECHNICAL INSTRUCTIONS
 
 -> This project was built on python.
 
--> The dataset is sourced from Kaggle.
-
 -> The results of all questions are based on graphs which are done using matplotlib.
 
 
